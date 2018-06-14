@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MessagePassingDemo
 //
-//  Created by Rigil on 11/05/18.
-//  Copyright © 2018 Rigil. All rights reserved.
+//  Created by Vivek on 11/05/18.
+//  Copyright © 2018 Vivek. All rights reserved.
 //
 
 import UIKit
